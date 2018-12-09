@@ -1,0 +1,88 @@
+        {
+            "id": "328",
+            "brand_id": "141",
+            "name": "福迪汽车",
+            "firstletter": "F",
+                "series": [
+        {
+            "id": "3754",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪雄师F22",
+            "name": "雄师F22",
+            "firstletter": "X",
+            "seriesstate": "20",
+            "seriesorder": "1170"
+        },
+        {
+            "id": "3633",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪揽福",
+            "name": "揽福",
+            "firstletter": "L",
+            "seriesstate": "20",
+            "seriesorder": "1167"
+        },
+        {
+            "id": "2895",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪雄师F16",
+            "name": "雄师F16",
+            "firstletter": "X",
+            "seriesstate": "20",
+            "seriesorder": "1169"
+        },
+        {
+            "id": "2894",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪雄狮",
+            "name": "雄狮",
+            "firstletter": "X",
+            "seriesstate": "20",
+            "seriesorder": "1171"
+        },
+        {
+            "id": "2475",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪小超人",
+            "name": "小超人",
+            "firstletter": "X",
+            "seriesstate": "20",
+            "seriesorder": "1168"
+        },
+        {
+            "id": "2455",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪探索者Ⅲ",
+            "name": "探索者Ⅲ",
+            "firstletter": "T",
+            "seriesstate": "40",
+            "seriesorder": "1173"
+        },
+        {
+            "id": "2454",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪探索者Ⅱ",
+            "name": "探索者Ⅱ",
+            "firstletter": "T",
+            "seriesstate": "40",
+            "seriesorder": "1172"
+        },
+        {
+            "id": "2453",
+            "group_id": "328",
+            "brand_id": "141",
+            "full_name": "福迪探索者6",
+            "name": "探索者6",
+            "firstletter": "T",
+            "seriesstate": "40",
+            "seriesorder": "1174"
+        }
+    ]
+        }
